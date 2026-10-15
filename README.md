@@ -1,4 +1,4 @@
-# my-git-hub
+# sehrish Ramzan
 this is my first git hub repository
 <br>
 Author Sehrish Ramzan
